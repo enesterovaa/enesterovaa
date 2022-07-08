@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Ekaterina
+### Hi there 👋 
+#### My name is Ekaterina
 #### I am a QA engineer from St.Petersburg, Russia
 
 - 🌱 I’m currently learning SQL, JS, Git Bash, HTML, CSS at Vadim Ksendzov's QA course
